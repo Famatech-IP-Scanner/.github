@@ -1,4 +1,4 @@
-# Famatech IP Scanner — Free LAN Analysis and Network Device Discovery
+# Famatech IP Scanner — LAN Analysis and Network Device Discovery
 
 ![Banner Placeholder](https://skillbox.ru/upload/setka_images/16345210092025_fc9956ee2f4201e204a5532c68850c6715ed24e0.jpg)
 
